@@ -1,4 +1,4 @@
-# pass_iq
+# expected_pass_pct
 Framework for evaluating soccer player's pass selection
 
 Using data from statsbomb.com that has been made public and the code from Devin Pleuler's applied-example repository I demonstrate a possible framework for evaluating players passing iq in the 2018 world cup based off their pass selection.
